@@ -1,0 +1,7 @@
+{
+  "chatHistory": [],
+  "currentMessage": {
+    "role": "user",
+    "message": "Hello"
+  }
+}

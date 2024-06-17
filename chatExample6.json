@@ -1,0 +1,13 @@
+{
+  "chatHistory": [
+    {"role": "user", "message": "Hello"},
+    {"role": "chatbot", "message": "Good day"},
+    {"role": "user", "message": "What time is it?"},
+    {"role": "chatbot", "message": "9:00 AM"},
+    {"role": "user", "message": "I should go!"}
+  ],
+  "currentMessage": {
+    "role": "chatbot",
+    "message": "Wait for me!"
+  }
+}
